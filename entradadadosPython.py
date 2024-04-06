@@ -1,5 +1,6 @@
-altura = float(input())
-idade = float(input())
+altura = float(input("OIASPODIASHDJ"))
+idade = float(input("lKJADSMNMASNDNMSBA"))
+
 
 print(idade)
 print(altura)
