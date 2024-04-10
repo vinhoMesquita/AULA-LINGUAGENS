@@ -11,7 +11,7 @@ i = int(input("Digite a posição que quer adicionar uma letra: "))
 
 
 if nome[i] == "R" or nome[i] == "r":
-   print(nome[:i]+"r"+nome[i+1:])
+   print(nome[:i]+"s"+nome[i+1:])
 elif nome[i] == "m" or nome[i] == "M":
     print(nome[:i]+"n"+nome[i+1:])
 else: 
